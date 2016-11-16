@@ -8,5 +8,3 @@ while n:
 	n = float(raw_input(':'))
 	total = total + n
 print 'TOTAL: %s' % total
-
-#
